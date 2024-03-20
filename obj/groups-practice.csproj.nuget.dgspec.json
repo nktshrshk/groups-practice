@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\REPOSITORIES\\groups-practice\\groups-practice\\groups-practice.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\groups-practice\\groups-practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\REPOSITORIES\\groups-practice\\groups-practice\\groups-practice.csproj": {
+    "C:\\Users\\Admin\\Desktop\\groups-practice\\groups-practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\REPOSITORIES\\groups-practice\\groups-practice\\groups-practice.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\groups-practice\\groups-practice.csproj",
         "projectName": "groups-practice",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\REPOSITORIES\\groups-practice\\groups-practice\\groups-practice.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\groups-practice\\groups-practice.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\REPOSITORIES\\groups-practice\\groups-practice\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\groups-practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
