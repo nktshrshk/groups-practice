@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\bin\Debug\net5.0\groups-practice.exe
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\bin\Debug\net5.0\groups-practice.deps.json
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\bin\Debug\net5.0\groups-practice.runtimeconfig.json
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\bin\Debug\net5.0\groups-practice.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\bin\Debug\net5.0\groups-practice.dll
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\bin\Debug\net5.0\ref\groups-practice.dll
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\bin\Debug\net5.0\groups-practice.pdb
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\obj\Debug\net5.0\groups-practice.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\obj\Debug\net5.0\groups-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\obj\Debug\net5.0\groups-practice.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\obj\Debug\net5.0\groups-practice.AssemblyInfo.cs
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\obj\Debug\net5.0\groups-practice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\obj\Debug\net5.0\groups-practice.dll
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\obj\Debug\net5.0\ref\groups-practice.dll
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\obj\Debug\net5.0\groups-practice.pdb
+C:\Users\Admin\Desktop\REPOSITORIES\groups-practice\groups-practice\obj\Debug\net5.0\groups-practice.genruntimeconfig.cache

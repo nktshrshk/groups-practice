@@ -6,7 +6,15 @@ namespace groups_practice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Инициализация объекта класса "Student".
+            Student TestStudent1 = new Student();
+            TestStudent1.Name = "TestStudent1Name";
+            TestStudent1.Surname = "TestStudent1Surname";
+            TestStudent1.Patronymic = "TestStudent1Patronymic";
+            TestStudent1.Age = 99;
+
+            Console.WriteLine("Student initialized!\n");
+            TestStudent1.PrintInfo();
         }
     }
 }
