@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace groups_practice
 {
-    class Teacher
+    public class Teacher
     {
         public string Name;
         public string Surname;
