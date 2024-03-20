@@ -15,6 +15,18 @@ namespace groups_practice
 
             Console.WriteLine("Student initialized!\n");
             TestStudent1.PrintInfo();
+
+            Console.WriteLine("\n\n");
+
+            // Инициализация объекта класса "Teacher".
+            Teacher TestTeacher1 = new Teacher();
+            TestTeacher1.Name = "TestTeacher1Name";
+            TestTeacher1.Surname = "TestTeacher1Surname";
+            TestTeacher1.Patronymic = "TestTeacher1Patronymic";
+            TestTeacher1.Age = 88;
+
+            Console.WriteLine("Teacher initialized!\n");
+            TestTeacher1.PrintInfo();
         }
     }
 }
