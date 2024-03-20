@@ -16,5 +16,10 @@ namespace groups_practice
         {
             Console.WriteLine($"This student's full name is:\n{Name} {Surname} {Patronymic}\n\nTheir age:\n{Age}");
         }
+
+        public void PrintInfoForClassroom()
+        {
+            Console.WriteLine($"A student: {Name} {Surname} {Patronymic}");
+        }
     }
 }

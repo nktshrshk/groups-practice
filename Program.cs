@@ -6,6 +6,9 @@ namespace groups_practice
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("\n--------------------------------------------------------------------------------");
+
             // Инициализация объекта класса "Student".
             Student TestStudent1 = new Student();
             TestStudent1.Name = "TestStudent1Name";
@@ -16,7 +19,7 @@ namespace groups_practice
             Console.WriteLine("Student initialized!\n");
             TestStudent1.PrintInfo();
 
-            Console.WriteLine("\n\n");
+            Console.WriteLine("\n--------------------------------------------------------------------------------");
 
             // Инициализация объекта класса "Teacher".
             Teacher TestTeacher1 = new Teacher();
@@ -27,6 +30,19 @@ namespace groups_practice
 
             Console.WriteLine("Teacher initialized!\n");
             TestTeacher1.PrintInfo();
+
+            Console.WriteLine("\n--------------------------------------------------------------------------------");
+
+            // Инициализация объекта класса "Classroom".
+            Classroom TestClassroom1 = new Classroom();
+            TestClassroom1.Name = "TestClassroom1Name";
+            TestClassroom1.Student = TestStudent1;
+            TestClassroom1.Teacher = TestTeacher1;
+
+            Console.WriteLine("Classroom initialized!\n");
+            TestClassroom1.PrintInfo();
+
+            Console.WriteLine("\n--------------------------------------------------------------------------------\n");
         }
     }
 }
